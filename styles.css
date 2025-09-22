@@ -1,0 +1,36 @@
+body{
+  font-family: Arial,Sans-Serif;
+  text-align: center;
+  padding: 30px;
+  background-color: grey;
+}
+section{
+  margin: 24px 0;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: lightGrey;
+}
+button{
+  padding: 10px 15px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background: #007BFF;
+  color: white;
+}
+button:hover{
+  background: #0056B3;
+}
+p{
+  font-size: 18px;
+  margin-top: 10px;
+}
+img{
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
